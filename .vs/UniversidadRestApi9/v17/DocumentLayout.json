@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Documents\\Estudios\\Proyectos\\Backend\\UniversidadRestApi9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC887C41-6F46-44DE-BB87-6D1CCB60B676}|University.Test\\University.Test.csproj|c:\\users\\user\\documents\\estudios\\proyectos\\backend\\universidadrestapi9\\university.test\\helpers\\studycontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC887C41-6F46-44DE-BB87-6D1CCB60B676}|University.Test\\University.Test.csproj|solutionrelative:university.test\\helpers\\studycontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC887C41-6F46-44DE-BB87-6D1CCB60B676}|University.Test\\University.Test.csproj|c:\\users\\user\\documents\\estudios\\proyectos\\backend\\universidadrestapi9\\university.test\\helpers\\controllertestshelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC887C41-6F46-44DE-BB87-6D1CCB60B676}|University.Test\\University.Test.csproj|solutionrelative:university.test\\helpers\\controllertestshelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC887C41-6F46-44DE-BB87-6D1CCB60B676}|University.Test\\University.Test.csproj|c:\\users\\user\\documents\\estudios\\proyectos\\backend\\universidadrestapi9\\university.test\\servicestests\\studentservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC887C41-6F46-44DE-BB87-6D1CCB60B676}|University.Test\\University.Test.csproj|solutionrelative:university.test\\servicestests\\studentservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ControllerTestsHelpers.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Estudios\\Proyectos\\Backend\\UniversidadRestApi9\\University.Test\\Helpers\\ControllerTestsHelpers.cs",
+              "RelativeDocumentMoniker": "University.Test\\Helpers\\ControllerTestsHelpers.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\Estudios\\Proyectos\\Backend\\UniversidadRestApi9\\University.Test\\Helpers\\ControllerTestsHelpers.cs",
+              "RelativeToolTip": "University.Test\\Helpers\\ControllerTestsHelpers.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T13:00:18.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudyControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Estudios\\Proyectos\\Backend\\UniversidadRestApi9\\University.Test\\Helpers\\StudyControllerTests.cs",
+              "RelativeDocumentMoniker": "University.Test\\Helpers\\StudyControllerTests.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\Estudios\\Proyectos\\Backend\\UniversidadRestApi9\\University.Test\\Helpers\\StudyControllerTests.cs",
+              "RelativeToolTip": "University.Test\\Helpers\\StudyControllerTests.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAQwC8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T13:00:17.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Estudios\\Proyectos\\Backend\\UniversidadRestApi9\\University.Test\\ServicesTests\\StudentServiceTests.cs",
+              "RelativeDocumentMoniker": "University.Test\\ServicesTests\\StudentServiceTests.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\Estudios\\Proyectos\\Backend\\UniversidadRestApi9\\University.Test\\ServicesTests\\StudentServiceTests.cs",
+              "RelativeToolTip": "University.Test\\ServicesTests\\StudentServiceTests.cs",
+              "ViewState": "AQIAAKMAAAAAAAAAAAAYwLwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T12:57:53.411Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

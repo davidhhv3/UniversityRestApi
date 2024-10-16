@@ -1,0 +1,12 @@
+C:\Users\USER\Documents\Estudios\Proyectos\Backend\UniversidadRestApi9\University.Core\bin\Debug\net8.0\University.Core.deps.json
+C:\Users\USER\Documents\Estudios\Proyectos\Backend\UniversidadRestApi9\University.Core\bin\Debug\net8.0\University.Core.dll
+C:\Users\USER\Documents\Estudios\Proyectos\Backend\UniversidadRestApi9\University.Core\bin\Debug\net8.0\University.Core.pdb
+C:\Users\USER\Documents\Estudios\Proyectos\Backend\UniversidadRestApi9\University.Core\obj\Debug\net8.0\University.Core.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\Estudios\Proyectos\Backend\UniversidadRestApi9\University.Core\obj\Debug\net8.0\University.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\Estudios\Proyectos\Backend\UniversidadRestApi9\University.Core\obj\Debug\net8.0\University.Core.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\Estudios\Proyectos\Backend\UniversidadRestApi9\University.Core\obj\Debug\net8.0\University.Core.AssemblyInfo.cs
+C:\Users\USER\Documents\Estudios\Proyectos\Backend\UniversidadRestApi9\University.Core\obj\Debug\net8.0\University.Core.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\Estudios\Proyectos\Backend\UniversidadRestApi9\University.Core\obj\Debug\net8.0\University.Core.dll
+C:\Users\USER\Documents\Estudios\Proyectos\Backend\UniversidadRestApi9\University.Core\obj\Debug\net8.0\refint\University.Core.dll
+C:\Users\USER\Documents\Estudios\Proyectos\Backend\UniversidadRestApi9\University.Core\obj\Debug\net8.0\University.Core.pdb
+C:\Users\USER\Documents\Estudios\Proyectos\Backend\UniversidadRestApi9\University.Core\obj\Debug\net8.0\ref\University.Core.dll
